@@ -6,5 +6,10 @@
 </head>
 <body>
     <div class="macska"></div>
+    <div class="kutya"></div>
+    <div></div>
+    <li></li>
+    <li></li>
+    <li></li>
 </body>
 </html>
