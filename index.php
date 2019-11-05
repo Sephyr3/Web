@@ -8,16 +8,15 @@
     </style>
 </head>
 <body>
-    <div class="macska"></div>
-    <div class="kutya"></div>
-    <div></div>
-    <li></li>
-    <li></li>
-    <li></li>
-    <div>kutya</div>
-    <div>cica</div>
-    <div></div>
-    <div></div>
-    <div></div>
+    <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
 </body>
 </html>
