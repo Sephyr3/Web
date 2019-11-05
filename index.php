@@ -3,6 +3,9 @@
 <head>
     <meta http-equiv="content-type" content="text/html" charset="UTF-8">
     <title>Grid</title>
+    <style>
+        @import 'style.css';
+    </style>
 </head>
 <body>
     <div class="macska"></div>
