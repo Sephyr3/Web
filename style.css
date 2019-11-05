@@ -1,0 +1,62 @@
+html
+{
+    background-color: black;
+    color: white;
+}
+
+#content div
+{
+    border: 1px solid #986;
+    background-color: coral;
+    
+}
+
+#content
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(15vh, auto);
+    grid-grap: 10px;
+
+}
+
+#a
+{
+    grid-column: 1 / 3;
+    grid-row: 1;
+}
+
+#b
+{
+    
+}
+
+#c
+{
+    
+}
+
+#d
+{
+    
+}
+
+#e
+{
+    
+}
+
+#f
+{
+    
+}
+
+#g
+{
+    
+}
+
+#h
+{
+    
+}
